@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Claude/local tooling
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
